@@ -1,4 +1,4 @@
 const express = require("express")
 const app = express()
 
-//comment ahihi
+//dùng GIT: git add ./ git commit -m "name-it"/ push -u origin main
